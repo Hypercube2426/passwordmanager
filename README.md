@@ -25,7 +25,7 @@ Copy code
 
 ## Screenshots
 
-![Password Manager screenshot](https://user-images.githubusercontent.com/12345678/12345678-password-manager.png)
+![Password Manager screenshot] https://raw.githubusercontent.com/Hypercube2426/passwordmanager/main/screens/1.png
 
 ## Contributing
 
