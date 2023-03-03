@@ -24,8 +24,13 @@ Copy code
 `python password_manager.py` 
 
 ## Screenshots
+![Main application](https://raw.githubusercontent.com/Hypercube2426/passwordmanager/main/screens/1.png)
 
-![Password Manager screenshot] https://raw.githubusercontent.com/Hypercube2426/passwordmanager/main/screens/1.png
+![alt text]()
+
+![alt text](https://raw.githubusercontent.com/Hypercube2426/passwordmanager/main/screens/4.png)
+
+(![Screenshot 4](https://raw.githubusercontent.com/Hypercube2426/passwordmanager/main/screens/4.png)
 
 ## Contributing
 
