@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e8dd74e-43c8-438b-8603-6b1136713daa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../messagesender/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../messagesender/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../passwordmanager/passmanager.py/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../passwordmanager/passmanager.py/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../top100songs/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="9e8dd74e-43c8-438b-8603-6b1136713daa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
